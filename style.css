@@ -1,0 +1,33 @@
+body {
+    background-color: darkolivegreen;
+    color:white;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700p;
+    margin: 0;
+}
+
+button {
+    background-color:white;
+    color:black;
+    font-family: "Montserrat", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 90%;
+}
